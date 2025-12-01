@@ -94,4 +94,5 @@ class GeminiAgent:
         except Exception as e:
             return f"Connection Error: {e}"
 
+
 bot = GeminiAgent()
