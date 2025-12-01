@@ -241,4 +241,5 @@ class AestheticApp(ctk.CTk):
 
 if __name__ == "__main__":
     app = AestheticApp()
+
     app.mainloop()
