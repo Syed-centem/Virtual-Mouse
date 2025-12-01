@@ -58,6 +58,9 @@
 
 ## **🛠️ System Architecture**
 
+<img width="1381" height="583" alt="Screenshot 2025-12-01 232525" src="https://github.com/user-attachments/assets/dcab892d-436a-4d3a-a0de-3de1a146da68" />
+
+
 - The project utilizes a Multi-Process, Event-Driven Architecture to ensure responsiveness.
 
 1) **Frontend:** CustomTkinter (Modern Floating Dock UI).
@@ -83,13 +86,16 @@
 
 i) **Clone the Repository**
 
-git clone 
+
+git clone https://github.com/Syed-centem/Virtual-Mouse.git
 cd Virtual-Mouse
 
 
 ii) **Install Dependencies**
 
+
 pip install -r requirements.txt
+
 
 
 Note: If dlib fails, ensure CMake is installed (pip install cmake).
@@ -101,9 +107,12 @@ Create a .Env file in the root directory and add your API Key:
 GOOGLE_API_KEY=AIzaSy...YourKeyHere
 
 
+
 iV) **Run the Application**
 
+
 python Main.py
+
 
 
 ## **🎮 Usage Guide**
