@@ -273,3 +273,4 @@ def RealtimeSearchEngine(prompt: str) -> str:
         print("[RealtimeSearchEngine] unexpected error:", e)
         traceback.print_exc()
         return "Sorry, something went wrong while fetching realtime information."
+
