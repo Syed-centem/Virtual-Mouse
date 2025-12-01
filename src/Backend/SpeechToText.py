@@ -47,4 +47,5 @@ def SpeechRecognition():
         return ""
     except Exception as e:
         # Sometimes PyAudio throws overflow errors, just ignore and retry
+
         return ""
